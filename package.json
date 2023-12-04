@@ -1,0 +1,23 @@
+{
+  "name": "cards-arrays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reto01.js",
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Riload",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "standard": "^17.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/preset-env": "^7.23.3",
+    "babel-jest": "^29.7.0"
+  }
+}
